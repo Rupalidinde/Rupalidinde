@@ -1,0 +1,2 @@
+##Endpoints
+  Endpoints are modules written in .js (or .ts) files that export request handler functions corresponding to HTTP methods.
